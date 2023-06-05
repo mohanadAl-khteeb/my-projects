@@ -1,0 +1,15 @@
+.user-image{
+    width: 2em;
+    height: 2em;
+    margin: 0 5px;
+}
+.dropdown-toggle::after{
+    content: none;
+}
+.status{
+    margin-bottom: 10px;
+    font-size: $small-font-size;
+}
+.card-text{
+    font-size: 1.2em;
+}
